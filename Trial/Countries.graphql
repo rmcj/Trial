@@ -1,13 +1,9 @@
-query Countries($id:CountryFilterInput) {
-  countries(filter:$id) {
+query Countries {
+  countries {
     name
     native
     capital
     emoji
     currency
-    languages {
-      code
-      name
-    }
   }
 }

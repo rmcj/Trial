@@ -2,6 +2,10 @@
 //  MasterControllerView.swift
 //  Trial
 //
+//  This file displays a list of countries. Selecting a country causes
+//  a segue to a second page, which displays the selected country's
+//  detailed information obtained from an online database.
+//
 //  Created by Rhiannon Carlson on 7/29/20.
 //  Copyright © 2020 Rhiannon Carlson. All rights reserved.
 //
@@ -12,13 +16,17 @@ import Apollo
 
 class MasterViewController: UITableViewController {
     
+    var detailViewController: DetailViewController? = nil
     var countries = [CountriesQuery.Data.Country]()
+    
     enum ListSection: Int, CaseIterable {
       case countries
     }
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // Gather the list of countries and details from an online database.
         self.loadCountries()
     }
     
@@ -27,6 +35,35 @@ class MasterViewController: UITableViewController {
         if segue.identifier == "showProfile" {
             // No setup is required.
             return
+        }
+        
+        guard let selectedIndexPath = self.tableView.indexPathForSelectedRow else {
+            // Nothing is selected, nothing to do
+            return
+        }
+        
+        guard let listSection = ListSection(rawValue: selectedIndexPath.section) else {
+            assertionFailure("Invalid section")
+            return
+        }
+        
+        switch listSection {
+        case .countries:
+            
+            // Prepare to segue to the detailed view controller with the selected country's information.
+            guard
+                let destination = segue.destination as? UINavigationController,
+                let detail = destination.topViewController as? DetailViewController else {
+                    assertionFailure("Wrong kind of destination")
+                    return
+            }
+            
+            // Gather the selected country's data.
+            let country = self.countries[selectedIndexPath.row]
+                        
+            // Set the country's detailed information in the detailed view controller.
+            detail.countryInfo = country
+
         }
     }
     
@@ -57,7 +94,8 @@ class MasterViewController: UITableViewController {
       switch listSection {
       case .countries:
         let country = self.countries[indexPath.row]
-        cell.textLabel?.text = country.name
+        // Display each country's flag and name in hte list.
+        cell.textLabel?.text = country.emoji + country.name
       }
         
       return cell

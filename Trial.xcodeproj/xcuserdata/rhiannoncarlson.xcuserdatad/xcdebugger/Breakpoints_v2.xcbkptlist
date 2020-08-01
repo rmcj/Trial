@@ -14,8 +14,8 @@
             filePath = "Trial/SceneDelegate.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
             landmarkName = "sceneDidBecomeActive(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24,14 +24,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "0F7510DE-B190-4788-A7E1-F1E110D7FA57"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/MasterControllerView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "60"
-            endingLineNumber = "60"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -40,14 +40,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "0C349279-CC98-474C-9869-1382A23822E0"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/MasterControllerView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "81"
-            endingLineNumber = "81"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
             landmarkName = "loadCountries()"
             landmarkType = "7">
             <Locations>
@@ -62,8 +62,8 @@
                   urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/MasterControllerView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "81"
-                  endingLineNumber = "81"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
                   offsetFromSymbolStart = "597">
                </Location>
                <Location
@@ -77,8 +77,8 @@
                   urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/MasterControllerView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "81"
-                  endingLineNumber = "81"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
                   offsetFromSymbolStart = "24">
                </Location>
             </Locations>
@@ -88,14 +88,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "46FB5512-1FD3-4DC8-A694-F21033B59C3E"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/MasterControllerView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -104,14 +104,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "F8E1339D-3D2C-4E45-AA5C-D1CE6BF92647"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/MasterControllerView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "70"
-            endingLineNumber = "70"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
             landmarkName = "loadCountries()"
             landmarkType = "7">
          </BreakpointContent>
@@ -120,60 +120,60 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "ED06A61B-3BDE-4883-AD62-A5BCF70E7216"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/MasterControllerView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "78"
-            endingLineNumber = "78"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
             landmarkName = "loadCountries()"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "ED06A61B-3BDE-4883-AD62-A5BCF70E7216 - 440d60c00bbfd324"
+                  uuid = "ED06A61B-3BDE-4883-AD62-A5BCF70E7216 - a9c1d0ec35912ec7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesAbrevQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
                   moduleName = "Trial"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/MasterControllerView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "79"
-                  endingLineNumber = "79"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
                   offsetFromSymbolStart = "326">
                </Location>
                <Location
-                  uuid = "ED06A61B-3BDE-4883-AD62-A5BCF70E7216 - 440d60c00bbfd324"
+                  uuid = "ED06A61B-3BDE-4883-AD62-A5BCF70E7216 - a9c1d0ec35912ec7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesAbrevQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
                   moduleName = "Trial"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/MasterControllerView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "79"
-                  endingLineNumber = "79"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
                   offsetFromSymbolStart = "352">
                </Location>
                <Location
-                  uuid = "ED06A61B-3BDE-4883-AD62-A5BCF70E7216 - 440d60c00bbfd324"
+                  uuid = "ED06A61B-3BDE-4883-AD62-A5BCF70E7216 - a9c1d0ec35912ec7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesAbrevQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
                   moduleName = "Trial"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/MasterControllerView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "79"
-                  endingLineNumber = "79"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
                   offsetFromSymbolStart = "1631">
                </Location>
             </Locations>
@@ -183,14 +183,14 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "7844C426-F420-4301-A115-31CDDA892E4C"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/MasterControllerView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -374,23 +374,21 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "5904CD34-16C6-4844-A128-E97D8291F5AF"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/API.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "180"
-            endingLineNumber = "180"
-            landmarkName = "selections"
-            landmarkType = "24">
+            endingLineNumber = "180">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "5E034D68-08CB-4C8B-B9A2-BA1AFA2D3DDB"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/API.swift"
@@ -398,15 +396,15 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "38"
             endingLineNumber = "38"
-            landmarkName = "continent"
-            landmarkType = "24">
+            landmarkName = "Data"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "A356B330-071F-4C0D-8A1A-843488C09ABF"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/API.swift"
@@ -414,15 +412,47 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "29"
             endingLineNumber = "29"
-            landmarkName = "currency"
-            landmarkType = "24">
+            landmarkName = "Data"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "A356B330-071F-4C0D-8A1A-843488C09ABF - b236169b32a4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trial.CountriesQuery.__allocating_init() -&gt; Trial.CountriesQuery"
+                  moduleName = "Trial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "A356B330-071F-4C0D-8A1A-843488C09ABF - f74f0c223aba14e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trial.CountriesQuery.init() -&gt; Trial.CountriesQuery"
+                  moduleName = "Trial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/API.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "B6536118-2A81-4012-B2C2-8B966BD41969"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Trial/API.swift"
@@ -430,7 +460,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "31"
             endingLineNumber = "31"
-            landmarkName = "currency"
+            landmarkName = "selections"
             landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
@@ -445,41 +475,7 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "198"
-            endingLineNumber = "198"
-            landmarkName = "init(name:native:capital:emoji:currency:languages:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "CBB71577-E676-4DDC-95DA-0BA32E2331FC - 3349a8658228e8a7"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Trial.CountriesQuery.Data.Country.init(name: Swift.String, native: Swift.String, capital: Swift.Optional&lt;Swift.String&gt;, emoji: Swift.String, currency: Swift.Optional&lt;Swift.String&gt;, languages: Swift.Array&lt;Trial.CountriesQuery.Data.Country.Language&gt;) -&gt; Trial.CountriesQuery.Data.Country"
-                  moduleName = "Trial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/API.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "198"
-                  endingLineNumber = "198"
-                  offsetFromSymbolStart = "135">
-               </Location>
-               <Location
-                  uuid = "CBB71577-E676-4DDC-95DA-0BA32E2331FC - 1a12a865406fda86"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Trial.CountriesQuery.Data.Country.Language) -&gt; Swift.Dictionary&lt;Swift.String, Swift.Optional&lt;Any&gt;&gt; in Trial.CountriesQuery.Data.Country.init(name: Swift.String, native: Swift.String, capital: Swift.Optional&lt;Swift.String&gt;, emoji: Swift.String, currency: Swift.Optional&lt;Swift.String&gt;, languages: Swift.Array&lt;Trial.CountriesQuery.Data.Country.Language&gt;) -&gt; Trial.CountriesQuery.Data.Country"
-                  moduleName = "Trial"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/API.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "198"
-                  endingLineNumber = "198"
-                  offsetFromSymbolStart = "24">
-               </Location>
-            </Locations>
+            endingLineNumber = "198">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -493,9 +489,7 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "197"
-            endingLineNumber = "197"
-            landmarkName = "init(name:native:capital:emoji:currency:languages:)"
-            landmarkType = "7">
+            endingLineNumber = "197">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -509,9 +503,275 @@
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "203"
-            endingLineNumber = "203"
-            landmarkName = "__typename"
-            landmarkType = "24">
+            endingLineNumber = "203">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32800845-BB4B-47A1-A389-FC9AD58FF68B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/Network.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "Network"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "32800845-BB4B-47A1-A389-FC9AD58FF68B - 13e60dd3c64f9c00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trial.Network.apollo.getter : Apollo.ApolloClient"
+                  moduleName = "Trial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "247">
+               </Location>
+               <Location
+                  uuid = "32800845-BB4B-47A1-A389-FC9AD58FF68B - 5b09dde7b3dad81c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trial.Network.apollo.setter : Apollo.ApolloClient"
+                  moduleName = "Trial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "32800845-BB4B-47A1-A389-FC9AD58FF68B - c807a90473ccc703"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trial.Network.init() -&gt; Trial.Network"
+                  moduleName = "Trial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/Network.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24D126C5-8A0B-4B50-AD94-349B496A4E54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/MasterControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "loadCountries()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D1EE0FD-CD35-4000-9E64-FB866CDDA95C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/MasterControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "loadCountries()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7D1EE0FD-CD35-4000-9E64-FB866CDDA95C - a9c1d0ec35912ec7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesAbrevQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
+                  moduleName = "Trial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/MasterControllerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "326">
+               </Location>
+               <Location
+                  uuid = "7D1EE0FD-CD35-4000-9E64-FB866CDDA95C - a9c1d0ec35912ec7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesAbrevQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
+                  moduleName = "Trial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/MasterControllerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "7D1EE0FD-CD35-4000-9E64-FB866CDDA95C - a9c1d0ec35912ec7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Apollo.GraphQLResult&lt;Trial.CountriesAbrevQuery.Data&gt;, Swift.Error&gt;) -&gt; () in Trial.MasterViewController.(loadCountries in _80B8B2DB8AD73EF9E9589CDFC3EFA8EF)() -&gt; ()"
+                  moduleName = "Trial"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rhiannoncarlson/Documents/Trial/Trial/MasterControllerView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1631">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6DF1B3C-D46D-46B0-9D64-825166567F83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/API.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "218C99A4-D90E-4878-A263-53327FD986EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/MasterControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "loadCountries()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B80F4ABE-E2EB-4805-A025-506C4F34844F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/MasterControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACA708CF-5B23-4946-B9C1-ED6F109D56E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/MasterControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF97F2DA-EAE2-47DA-8678-2208B4B9624D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/MasterControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE6AC484-7812-4B32-9509-E43E9A59C629"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/MasterControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27BBC9BB-032D-493B-AEA0-D95980AD0E5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/DetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14171FA4-EC55-4A1C-89E3-CFB658838129"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trial/MasterControllerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "loadCountries()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
