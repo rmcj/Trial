@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4D2542A624D46185000547C2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D2542A524D46184000547C2 /* DetailViewController.swift */; };
+		4D973D2C24D6252E001A8E3B /* ViewAR.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D973D2B24D6252E001A8E3B /* ViewAR.swift */; };
 		4DC8A19724D086DA00A3E4F1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC8A19624D086DA00A3E4F1 /* AppDelegate.swift */; };
 		4DC8A19924D086DA00A3E4F1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC8A19824D086DA00A3E4F1 /* SceneDelegate.swift */; };
 		4DC8A19C24D086DA00A3E4F1 /* Trial.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4DC8A19A24D086DA00A3E4F1 /* Trial.xcdatamodeld */; };
@@ -18,6 +19,7 @@
 		4DC8A1B824D08AE300A3E4F1 /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = 4DC8A1B324D08AE300A3E4F1 /* index.js */; };
 		4DC8A1B924D08AE300A3E4F1 /* Procfile in Resources */ = {isa = PBXBuildFile; fileRef = 4DC8A1B424D08AE300A3E4F1 /* Procfile */; };
 		4DC8A1BB24D08D1000A3E4F1 /* Trial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC8A1BA24D08D1000A3E4F1 /* Trial.swift */; };
+		4DE49CFA24D6F09200FCC0FF /* character in Resources */ = {isa = PBXBuildFile; fileRef = 4DE49CF924D6F09200FCC0FF /* character */; };
 		4DEE3B3E24D1919700545B34 /* GraphQL in Resources */ = {isa = PBXBuildFile; fileRef = 4DEE3B3D24D1919700545B34 /* GraphQL */; };
 		4DEE3B4B24D20B4000545B34 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DEE3B4A24D20B3F00545B34 /* API.swift */; };
 		4DEE3B4D24D20CAB00545B34 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DEE3B4C24D20CAA00545B34 /* Network.swift */; };
@@ -25,8 +27,22 @@
 		4DEE3B5124D217A900545B34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DEE3B5024D217A800545B34 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		4DE49D0424D7223400FCC0FF /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		4D2542A524D46184000547C2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		4D973D2B24D6252E001A8E3B /* ViewAR.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewAR.swift; sourceTree = "<group>"; };
 		4DC8A19324D086DA00A3E4F1 /* Trial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Trial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DC8A19624D086DA00A3E4F1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4DC8A19824D086DA00A3E4F1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +54,7 @@
 		4DC8A1B324D08AE300A3E4F1 /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = index.js; sourceTree = "<group>"; };
 		4DC8A1B424D08AE300A3E4F1 /* Procfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Procfile; sourceTree = "<group>"; };
 		4DC8A1BA24D08D1000A3E4F1 /* Trial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trial.swift; sourceTree = "<group>"; };
+		4DE49CF924D6F09200FCC0FF /* character */ = {isa = PBXFileReference; lastKnownFileType = folder; path = character; sourceTree = "<group>"; };
 		4DEE3B3D24D1919700545B34 /* GraphQL */ = {isa = PBXFileReference; lastKnownFileType = folder; path = GraphQL; sourceTree = "<group>"; };
 		4DEE3B4724D208E800545B34 /* schema.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = schema.json; sourceTree = "<group>"; };
 		4DEE3B4824D2094A00545B34 /* Countries.graphql */ = {isa = PBXFileReference; lastKnownFileType = text; path = Countries.graphql; sourceTree = "<group>"; };
@@ -91,6 +108,8 @@
 				4DEE3B4C24D20CAA00545B34 /* Network.swift */,
 				4DEE3B4824D2094A00545B34 /* Countries.graphql */,
 				4DC8A1B424D08AE300A3E4F1 /* Procfile */,
+				4D973D2B24D6252E001A8E3B /* ViewAR.swift */,
+				4DE49CF924D6F09200FCC0FF /* character */,
 				4DC8A19F24D086E400A3E4F1 /* Assets.xcassets */,
 				4DC8A1A424D086E400A3E4F1 /* LaunchScreen.storyboard */,
 				4DC8A1A724D086E400A3E4F1 /* Info.plist */,
@@ -119,6 +138,7 @@
 				4DC8A18F24D086DA00A3E4F1 /* Sources */,
 				4DC8A19024D086DA00A3E4F1 /* Frameworks */,
 				4DC8A19124D086DA00A3E4F1 /* Resources */,
+				4DE49D0424D7223400FCC0FF /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -179,6 +199,7 @@
 				4DC8A1B924D08AE300A3E4F1 /* Procfile in Resources */,
 				4DC8A1B824D08AE300A3E4F1 /* index.js in Resources */,
 				4DEE3B5124D217A900545B34 /* Main.storyboard in Resources */,
+				4DE49CFA24D6F09200FCC0FF /* character in Resources */,
 				4DC8A1A024D086E400A3E4F1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -212,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DEE3B4F24D20F2D00545B34 /* MasterControllerView.swift in Sources */,
+				4D973D2C24D6252E001A8E3B /* ViewAR.swift in Sources */,
 				4DC8A1BB24D08D1000A3E4F1 /* Trial.swift in Sources */,
 				4DC8A19724D086DA00A3E4F1 /* AppDelegate.swift in Sources */,
 				4DC8A19924D086DA00A3E4F1 /* SceneDelegate.swift in Sources */,
@@ -358,6 +380,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Trial/Preview Content\"";
 				DEVELOPMENT_TEAM = 7E765256Q2;
 				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Trial/Frameworks",
+				);
 				INFOPLIST_FILE = Trial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -378,6 +404,10 @@
 				DEVELOPMENT_ASSET_PATHS = "\"Trial/Preview Content\"";
 				DEVELOPMENT_TEAM = 7E765256Q2;
 				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Trial/Frameworks",
+				);
 				INFOPLIST_FILE = Trial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
