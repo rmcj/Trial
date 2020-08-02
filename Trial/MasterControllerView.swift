@@ -5,6 +5,9 @@
 //  This file displays a list of countries. Selecting a country causes
 //  a segue to a second page, which displays the selected country's
 //  detailed information obtained from an online database.
+//  Selecting the ARView navigation bar button causes the AR view to
+//  display. The ARView creates a robot that follows the motions of
+//  anyone in view of the iOS device's camera.
 //
 //  Created by Rhiannon Carlson on 7/29/20.
 //  Copyright © 2020 Rhiannon Carlson. All rights reserved.
@@ -33,6 +36,12 @@ class MasterViewController: UITableViewController {
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if segue.identifier == "showProfile" {
+            // No setup is required.
+            return
+        }
+        
+        // Segue to the ViewAR view.
+        if segue.identifier == "ShowAR" {
             // No setup is required.
             return
         }
